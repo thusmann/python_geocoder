@@ -1,70 +1,14 @@
 "Strasse,Ort",51.1238547,-2.7410164
 "Maihofstrasse 76,Luzern",47.0650082,8.311269
 "Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
 "Dammweg 9,Bern",46.9380904,7.4992566
-"Steinenschanze 2,Basel",47.5528958,7.58568015204499
-"Steinenschanze 2,Basel",47.5528958,7.58568015204499
-"Steinenschanze 2,Basel",47.5528958,7.58568015204499
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
 ",Lugano",46.004971,8.9520378
-"Neumattstrasse 1,Aarau",47.4015388,8.0649482
-"Neumattstrasse 1,Aarau",47.4015388,8.0649482
-"Rte des Jeunes 10,Carouge",46.1874499,6.1278755
-"Rte des Jeunes 10,Carouge",46.1874499,6.1278755
-"Rte des Jeunes 10,Carouge",46.1874499,6.1278755
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Dammweg 9,Bern",46.9380904,7.4992566
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Heinrichstrasse 267,Zürich",47.3828504,8.5323642
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-"Fernsehstrasse 1-4,Zürich",47.4179192,8.5598839
-",Lugano",46.004971,8.9520378
-",Lugano",46.004971,8.9520378
-",Lugano",46.004971,8.9520378
-",Lugano",46.004971,8.9520378
-",Lugano",46.004971,8.9520378
-",Lugano",46.004971,8.9520378
+"Quai Ernest-Ansermet 20,Genève 8",n/a,n/a
+"Wagistrasse 6,Schlieren",47.3989817,8.4563823
+"Bionstrasse 4,St. Gallen",47.4095078,9.3143582
+"Bürglistrasse 31a,Winterthur",47.5053004,8.71417823744452
+"Technopôle,Sierre",46.28304235,7.53949091731484
+"Robert Walser Platz 7,Biel",n/a,n/a
+"Bionstrasse 4,St. Gallen",47.4095078,9.3143582
+"Avenue des Bergiéres 10,Lausanne",46.5305679,6.618964
+"Centre Médias,Berne",n/a,n/a
