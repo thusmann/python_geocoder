@@ -7,7 +7,7 @@ outputfile = csv.writer(open("geocoded-placelist.txt", "w"))
 for row in inputfile:
         row = row.rstrip()
         url = "http://nominatim.openstreetmap.org/search"
-        payload = {"q":row, "format":"json", "polygon":"1", "addressdetails":"1",  "email":"thusmann@gmail.com"}
+        payload = {"q":row, "format":"json", "polygon":"1", "addressdetails":"1"}
         try:
                 r = requests.get(url, params=payload)
                 #print r.url
