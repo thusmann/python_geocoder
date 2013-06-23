@@ -7,4 +7,5 @@ It take a comma separated list in the file placelist.txt as an input and output 
 
 ##To Do
 Use CSV oder JSON as input
+
 Comply to usage policies
