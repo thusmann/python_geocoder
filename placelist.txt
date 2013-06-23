@@ -1,0 +1,14 @@
+Strasse,Ort
+Maihofstrasse 76,Luzern
+Fernsehstrasse 1-4,Zürich
+Dammweg 9,Bern
+,Lugano
+Quai Ernest-Ansermet 20,Genève 8
+Wagistrasse 6,Schlieren
+Bionstrasse 4,St. Gallen
+Bürglistrasse 31a,Winterthur
+Technopôle,Sierre
+Robert Walser Platz 7,Biel
+Bionstrasse 4,St. Gallen
+Avenue des Bergiéres 10,Lausanne
+Centre Médias,Berne
