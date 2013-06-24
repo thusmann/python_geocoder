@@ -1,5 +1,6 @@
 import requests
 import csv
+from time import sleep
 
 inputfile = open("placelist.txt")
 outputfile = csv.writer(open("geocoded-placelist.txt", "w"))
@@ -23,4 +24,4 @@ for row in inputfile:
         outputfile.writerow(newrow)
         
         print lat,lng
-
+        sleep(1)
