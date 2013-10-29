@@ -8,3 +8,4 @@ It take a comma separated list in the file placelist.txt as an input and output 
 ##To Do
 * Use CSV oder JSON as input
 * Close the file after geocoding is finished
+* Caching
