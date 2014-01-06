@@ -7,7 +7,7 @@ requests_cache.install_cache(cache_name = "orte")
 
 # Import and export CSV
 ifile = open("twitterAccounts.csv", "rb")
-ofile = open("geocodedAccounts.csv", "wb")
+ofile = open("geocodedTwitterAccounts.csv", "wb")
 reader = csv.reader(ifile, delimiter = ";")
 writer = csv.writer(ofile, delimiter = ";")
 
@@ -28,16 +28,25 @@ for row in reader:
             if header[colnum] == "location":
                 print "%-s: %s" % (header[colnum], col)
                 try:
-                    payload = {"q":col, "format":"json", "polygon":"1", "addressdetails":"0", "countrycodes":"ch", "limit":"1"}
+                    payload = {"q":col, "format":"json", "polygon":"1", "addressdetails":"1", "countrycodes":"ch", "limit":"1"}
                     r = requests.get(url_mapquest, params=payload)
                     json = r.json()
                     lat = json[0]["lat"]
                     lng = json[0]["lon"]
+                    state = json[0]["address"]["state"]
+                    city = json[0]["address"]["city"]
+                    country = json[0]["address"]["country_code"]
                 except:
                     lat = "na"
                     lng = "na"
+                    state = "na"
+                    city = "na"
+                    country = "na"                    
                 newrow.append(lat)
                 newrow.append(lng)
+                newrow.append(state.encode('utf-8'))
+                newrow.append(city.encode('utf-8'))
+                newrow.append(country)
             newrow.append(col)
             colnum += 1
     writer.writerow(newrow)
